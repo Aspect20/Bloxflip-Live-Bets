@@ -3,20 +3,20 @@
 
 ###  Known Issues (for future maintainers)
 - Gui is a bit buggy when new bets are made and displayed (Trying to fix it)
-- 
+
 ### In Progress
 - Imporoving the Gui style
-- 
+
 ### Packages needed
-- Cloudscraper
+[•] Cloudscraper
 ```
 pip install cloudscraper
 ```
-- Tkinter
+[•] Tkinter
 ```
 pip install tkinter
 ```
-- PIL
+[•] PIL
 ```
 pip install Pillow
 ```
